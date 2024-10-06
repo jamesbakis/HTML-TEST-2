@@ -1,0 +1,36 @@
+body {font-family: 'Times New Roman', Times, serif, Haettenschweiler; background-color: black;}
+ p { box-sizing:border-box; border: 5px dotted red; outline: 5px ridge greenyellow; 
+     border-radius: 100px; height: 200px; width: 400px; text-align: center;  background-color:aqua; margin: 20px 10px;
+      padding: 25px 0px 25px 0px;margin: auto;}
+blockquote {
+    background-color: orange; width:fit-content; margin: auto;
+}
+aside {
+    
+}
+address {
+    text-align: center; background-color: chartreuse; 
+}
+footer {
+    margin: auto;
+}
+small {
+     background-color: rgb(51, 255, 0); 
+     display: block;
+     width: fit-content;
+     margin: auto;
+}
+abbr:hover{
+    color: red;
+}
+
+video,iframe {
+    display: block;
+    margin: auto;
+}
+a {
+   display: block;
+   margin: auto;
+   text-align: center   ;
+}
+
